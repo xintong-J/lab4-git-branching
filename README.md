@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: Met a big bat on the left side.
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
