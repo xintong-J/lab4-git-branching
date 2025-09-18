@@ -16,9 +16,8 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
-
-## Final Checklist
+- `villain-path`: Fall down in the bloddy lake.
+ ## Final Checklist
 
 - [ ] At least 3 branches (`main`, `hero-path`, `villain-path`)
 - [ ] Each branch has its own unique story version
