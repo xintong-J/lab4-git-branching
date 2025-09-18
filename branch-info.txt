@@ -1,7 +1,17 @@
 Branches in this repo (with details):
 
-- main
-  SHA: b4b1dde7bed18c7fdc167a9005a47aee4309c443
-  Commits: 1
+- hero-path
+  SHA: aa078bec7c853466e9805c962b58fc5473747b39
+  Commits: 6
   Recent commits:
+    aa078be | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T14:15:43-04:00 | Met a big bat on your left side.
+    cb53c63 | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T14:14:04-04:00 | Summarize hero path in README.md
+    5096de1 | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T14:12:31-04:00 | You are scared right now.
+    1580f44 | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T14:11:16-04:00 | You chose left side and met a big bat
+    1bdddb8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:41:35Z | Auto-update branch-info.txt
+- main
+  SHA: 1bdddb8f5d3af36af6a78fce5407eecd7f4c292f
+  Commits: 2
+  Recent commits:
+    1bdddb8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:41:35Z | Auto-update branch-info.txt
     b4b1dde | Author: xintong-JIANG <231744781+xintong-J@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T13:41:21-04:00 | Initial commit
