@@ -13,6 +13,11 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+<<<<<<< HEAD
+=======
+    print("You decided to fight against with it.")
+    print("Unfortunately, you are too weak to beat it.wuwuwu")
+>>>>>>> villain-path
 
 if __name__ == "__main__":
     intro()

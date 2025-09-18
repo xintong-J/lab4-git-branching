@@ -1,6 +1,7 @@
 Branches in this repo (with details):
 
 - hero-path
+<<<<<<< HEAD
   SHA: aa078bec7c853466e9805c962b58fc5473747b39
   Commits: 6
   Recent commits:
@@ -25,3 +26,16 @@ Branches in this repo (with details):
     de23958 | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T18:42:40Z | You decided to fight against with it.
     45590d6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T16:12:08Z | Auto-update branch-info.txt
     b0e081d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T14:23:32Z | Auto-update branch-info.txt
+=======
+  SHA: b0e081d5b72920e610e4eccbad1c926864cc846a
+  Commits: 2
+  Recent commits:
+    b0e081d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T14:23:32Z | Auto-update branch-info.txt
+    4ab340c | Author: xintong-JIANG <231744781+xintong-J@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T10:23:12-04:00 | Initial commit
+- main
+  SHA: b0e081d5b72920e610e4eccbad1c926864cc846a
+  Commits: 2
+  Recent commits:
+    b0e081d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T14:23:32Z | Auto-update branch-info.txt
+    4ab340c | Author: xintong-JIANG <231744781+xintong-J@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T10:23:12-04:00 | Initial commit
+>>>>>>> villain-path
