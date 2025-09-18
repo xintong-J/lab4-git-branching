@@ -1,7 +1,6 @@
 Branches in this repo (with details):
 
 - hero-path
-<<<<<<< HEAD
   SHA: aa078bec7c853466e9805c962b58fc5473747b39
   Commits: 6
   Recent commits:
@@ -11,12 +10,14 @@ Branches in this repo (with details):
     1580f44 | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T14:11:16-04:00 | You chose left side and met a big bat
     1bdddb8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:41:35Z | Auto-update branch-info.txt
 - main
-  SHA: 6f1c71fb70ea3e8858b50df2640122e8dea72c94
-  Commits: 3
+  SHA: 9c1f3864a722963bdb4d4ac57c591698ab7d08f2
+  Commits: 11
   Recent commits:
-    6f1c71f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:24:22Z | Auto-update branch-info.txt
-    1bdddb8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:41:35Z | Auto-update branch-info.txt
-    b4b1dde | Author: xintong-JIANG <231744781+xintong-J@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T13:41:21-04:00 | Initial commit
+    9c1f386 | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T16:01:03-04:00 | Merge branch 'villain-path'
+    1071d02 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:46:50Z | Auto-update branch-info.txt
+    94828af | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T18:46:22Z | Fall down in the bloddy lake.
+    4364f4a | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T18:44:17Z | Unfortunately, you are too weak to beat it.wuwuwu
+    de23958 | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T18:42:40Z | You decided to fight against with it.
 - villain-path
   SHA: 94828afde734c5ffa92f87ae032211d893a96f54
   Commits: 6
@@ -26,16 +27,3 @@ Branches in this repo (with details):
     de23958 | Author: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Committer: Xintong Jiang <231744781+xintong-J@users.noreply.github.com> | Date: 2025-09-18T18:42:40Z | You decided to fight against with it.
     45590d6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T16:12:08Z | Auto-update branch-info.txt
     b0e081d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T14:23:32Z | Auto-update branch-info.txt
-=======
-  SHA: b0e081d5b72920e610e4eccbad1c926864cc846a
-  Commits: 2
-  Recent commits:
-    b0e081d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T14:23:32Z | Auto-update branch-info.txt
-    4ab340c | Author: xintong-JIANG <231744781+xintong-J@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T10:23:12-04:00 | Initial commit
-- main
-  SHA: b0e081d5b72920e610e4eccbad1c926864cc846a
-  Commits: 2
-  Recent commits:
-    b0e081d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T14:23:32Z | Auto-update branch-info.txt
-    4ab340c | Author: xintong-JIANG <231744781+xintong-J@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T10:23:12-04:00 | Initial commit
->>>>>>> villain-path
